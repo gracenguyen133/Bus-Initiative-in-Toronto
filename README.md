@@ -6,7 +6,7 @@ The primary output is a PDF report generated using Quarto, which outlines the fi
 ## File Structure
 The repo is structured as:
 
-- `data/cleaned_transport_bus_data.csv` contains the cleaned dataset for analysis.
+- `data/analysis_data/cleaned_transport_bus_data.csv` contains the cleaned dataset for analysis.
 - `paper.qmd` contains Quarto markdown file for report generation.
 - `references.bib` contains bibliography file containing references for the report.
 - `README.md` contains this README file.
