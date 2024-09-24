@@ -1,7 +1,7 @@
 ## Overview
-This project aims to analyze the usage patterns of Toronto's Transport Bus Initiative from December 2023 to April 2024. The analysis involves both time series analysis and multiple linear regression to examine how various factors—specifically, the number of clients transported and stationary clients—impact the total number of clients served.
+- This project aims to analyze the usage patterns of Toronto's Transport Bus Initiative from December 2023 to April 2024. The analysis involves both time series analysis and multiple linear regression to examine how various factors—specifically, the number of clients transported and stationary clients—impact the total number of clients served.
 
-The primary output is a PDF report generated using Quarto, which outlines the findings, methods, and recommendations based on the data analysis.
+- The primary output is a PDF report generated using Quarto, which outlines the findings, methods, and recommendations based on the data analysis.
 
 ## File Structure
 The repo is structured as:
