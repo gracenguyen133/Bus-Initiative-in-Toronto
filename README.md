@@ -1,4 +1,3 @@
-Transport Bus Initiative Usage Analysis
 ## Overview
 This project aims to analyze the usage patterns of Toronto's Transport Bus Initiative from December 2023 to April 2024. The analysis involves both time series analysis and multiple linear regression to examine how various factors—specifically, the number of clients transported and stationary clients—impact the total number of clients served.
 
